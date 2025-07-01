@@ -39,9 +39,9 @@ function IndexHeader() {
             <h3>Seguridad Informática Administrativa y Contable</h3>
           </div>
           <h6 className="category category-absolute">
-            SIAC Desarrollos{" "}
+            2025{" "}
             
-            . Calidad - Seguridad - Compromiso{" "}
+            UNIVERSISAD TECNOLOGICA DE DURANGO{" "}
           
             
           </h6>

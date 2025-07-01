@@ -57,10 +57,10 @@ function IndexNavbar() {
               target="_blank"
               id="navbar-brand"
             >
-              SIAC
+              EVALUACIÓN PARCIAL 2
             </NavbarBrand>
             <UncontrolledTooltip target="#navbar-brand">
-              Seguridad Informática Administrativa y Contable
+              SOLIS GARCIA JASIEL
             </UncontrolledTooltip>
             <button
               className="navbar-toggler navbar-toggler"
