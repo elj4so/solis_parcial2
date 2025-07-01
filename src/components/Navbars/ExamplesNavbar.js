@@ -93,10 +93,10 @@ function ExamplesNavbar() {
               target="_blank"
               id="navbar-brand"
             >
-              Now Ui Kit
+              EVALUACIÓN PARCIAL 2
             </NavbarBrand>
             <UncontrolledTooltip target="#navbar-brand">
-              Designed by Invision. Coded by Creative Tim
+              2025 ---- UNIVERSISAD TECNOLOCIA DE DURANGO
             </UncontrolledTooltip>
             <button
               className="navbar-toggler navbar-toggler"
