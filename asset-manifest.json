@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/solis_parcial2/static/css/main.17048947.css",
-    "main.js": "/solis_parcial2/static/js/main.b1301487.js",
+    "main.js": "/solis_parcial2/static/js/main.1cf663de.js",
     "static/media/bg6.jpg": "/solis_parcial2/static/media/bg6.dc603b7416966b84ac68.jpg",
     "static/media/bg1.jpg": "/solis_parcial2/static/media/bg1.71a28027225b8ae945bb.jpg",
     "static/media/bg11.jpg": "/solis_parcial2/static/media/bg11.c6c21bd88aee67067eb6.jpg",
@@ -22,6 +22,6 @@
   },
   "entrypoints": [
     "static/css/main.17048947.css",
-    "static/js/main.b1301487.js"
+    "static/js/main.1cf663de.js"
   ]
 }
